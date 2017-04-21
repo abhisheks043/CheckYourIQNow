@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Vérifiez votre QI Maintenant ! "</string>
+    <string name="EnterName">"Entrez votre nom:"</string>
+    <string name="allbest"> "Bonne chance!"</string>
+    <string name="average">"QI moyen ! "</string>
+    <string name="exit"> "SORTIE"</string>
+    <string name="final_Text">"Hé , vous avez "</string>
+    <string name="q401">"Bulbe"</string>
+    <string name="q402">"Fusible" </string>
+    <string name="q403">"Câbler" </string>
+    <string name="q404">"Prise de courant" </string>
+    <string name="ques1">"1.Rearrange les lettres du nom SOCRATES pour donner deux huit autres mots de lettre . Quelle sera la première lettre des deux mots ? "</string>
+    <string name="ques2">"Numéro d\' 2.Quel doit apparaître à côté de cette séquence : 2,6,14,30,62,126?"</string>
+    <string name="ques3">"Boutique 3.A animal a 8 hamsters , 18 lapins et 7 cobayes . Combien de chiens at-il? "</string>
+    <string name="ques4">"4.J\'ai suis un grand animal . Changer une lettre et je suis un logement. Changer une autre lettre et je suis un très petit animal. Retirer une lettre et je suis une rivière . Enfin changer une seule lettre et je suis un appareil électrique . Qu\'est-ce que ai-je enfin devenir ? "</string>
+    <string name="ques5">"Numéros 5.Le suivants ont quelque chose en commun , qui est l\'intrus ? 263 , 441 , 482 , 572 , 393 "</string>
+    <string name="result">"RÉSULTATS" </string>
+    <string name="sleep">"CELLULES DU CERVEAU SLEEPY !"</string>
+    <string name="startTest">"Démarrer le test maintenant!"</string>
+    <string name="submit">"Soumettre et voir le résultat !!" </string>
+    <string name="sup_IQ">"IQ SUPÉRIEURE !!!"</string>
+    <string name="textWel">"Avez-vous demandé ce que votre score de QI est ? Ce test de QI vous donnera un score de iq rapide, gratuit et précis . Prenez notre test de QI gratuit rapide et découvrir à quel point vous êtes intelligent ..."</string>
+    <string name="toast">"Entrez votre prénom ! "</string>
+    <string name="welDetails">"Le test comporte cinq questions. Chaque question porte score différent sur ​​la base du niveau de difficulté . Le pourcentage de QI sera évalué sur votre score All the Best ... "</string>
+</resources>

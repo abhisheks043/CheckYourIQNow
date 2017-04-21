@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">"Check Your IQ Now!"</string>
+    <string name="textWel">"Have you wondered what your IQ score is? This IQ Test will give you a fast, free and accurate iq score. Take our quick free IQ test and find out just how smart you are...</string>
+    <string name="startTest">"Start the Test now!"</string>
+    <string name="EnterName">"Enter Your Name:"</string>
+    <string name="welDetails">"The test has five questions. Each question carries different score on the basis of difficulty level. The IQ percentage will be evaluated on your score. All the Best..."</string>
+    <string name="ques1">"1.Rearrange the letters of the name SOCRATES to give two other eight letter words. What will be the first letter of both words?"</string>
+    <string name="ques2">"2.What number should appear next in this sequence: 2,6,14,30,62,126?"</string>
+    <string name="ques3">"3.A pet shop has 8 hamsters, 18 rabbits and 7 guinea pigs. How many dogs does it have?"</string>
+    <string name="ques4">"4.I am a large animal. Change one letter and I am a dwelling. Change another letter and I am a very small animal. Remove one letter and I am a river. Finally change one letter and I am an electrical device. What did I finally become?"</string>
+    <string name="ques5">"5.The following numbers have something in common, which is the odd one out? 263, 441, 482, 572, 393"</string>
+    <string name="q401">"Bulb"</string>
+    <string name="q402">"Fuse"</string>
+    <string name="q403">"Wire"</string>
+    <string name="q404">"Plug"</string>
+    <string name="submit">"Submit and see the result!!"</string>
+    <string name="allbest">"All the Best!"</string>
+    <string name="toast">"Enter your name first!"</string>
+    <string name="final_Text">"Hey there, YOU GOT"</string>
+    <string name="sup_IQ">"SUPERIOR IQ!!!"</string>
+    <string name="sleep">"SLEEPY BRAIN CELLS!"</string>
+    <string name="average">"AVERAGE IQ!"</string>
+    <string name="exit">"EXIT"</string>
+    <string name="result">"RESULTS"</string>
+
+</resources>
